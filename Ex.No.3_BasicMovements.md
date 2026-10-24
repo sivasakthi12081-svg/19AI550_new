@@ -2,6 +2,7 @@
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
+
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
 1. Setup the Scene
