@@ -157,15 +157,8 @@ behaviors:
     max_steps: 500000
     time_horizon: 64
     summary_freq: 10000
+```
 ### Output:
-
-
-
-
-
-
-
-
 
 ### Result:
 Thus the AI character was trained using reinforcement learning.
