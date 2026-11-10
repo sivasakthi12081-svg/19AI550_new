@@ -159,6 +159,9 @@ behaviors:
     summary_freq: 10000
 ```
 ### Output:
+<img width="1920" height="1136" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/d48163db-3edb-451e-89f0-d4c4c3fe4d96" />
+<img width="959" height="361" alt="Screenshot 2026-11-10 181012" src="https://github.com/user-attachments/assets/9bfece7b-8468-45c8-a3bb-136e9c6b8a83" />
+<img width="1920" height="1200" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/c4cb1367-ef34-4145-9371-64e0b86d5422" />
 
 ### Result:
 Thus the AI character was trained using reinforcement learning.
